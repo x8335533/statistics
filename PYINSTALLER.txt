@@ -1,0 +1,1 @@
+pyinstaller -F main_excute_mod.py -p class_flight.py -p date_result.py -p get_flight_data_chrome.py
